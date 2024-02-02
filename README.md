@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @l0reyes
 - 👀 I’m interested in Linguistics and Natural Language Processing
 - 🌱 I’m currently learning AI and Machine Learning
-- 📫 How to reach me? Linkedin: https://www.linkedin.com/in/lorenacreyesgonzalez/
 - 😄 Pronouns: she/her
 
 <!---
